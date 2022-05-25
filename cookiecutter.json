@@ -1,0 +1,6 @@
+{
+    "project_slug": "project",
+    "name": "Yugant",
+    "main":"main",
+    "test_folder": "test"
+}
